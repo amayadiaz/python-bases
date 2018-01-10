@@ -1,2 +1,2 @@
 # python-for-beginners
-Repository for learn the bases of Python. 
+Repository for define the bases of Python with the book 'Python para Principiantes' by Eugenia Bahit.
